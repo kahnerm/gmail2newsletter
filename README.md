@@ -20,7 +20,7 @@ Google’s Gmail API Quickstart Guide - https://mailmeteor.com/blog/gmail-api
 This tutorial of MIME being used that I used - https://pytutorial.com/how-to-send-an-email-with-attachment-in-python/
 
 
-#Libraries
+# Libraries
 
 These are built into Python as I had to use them since python was giving me an issue on version control (this was the only recommendation that I had to ask Claude on) and this does not change anything when using it on other machines its just how I got mine to stop giving me version errors
 warnings
