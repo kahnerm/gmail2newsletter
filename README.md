@@ -56,9 +56,9 @@ This tutorial of MIME being used that I used - https://pytutorial.com/how-to-sen
 - Bs4 (BeautifulSoup)
 
 
-# What does the Program do and what could it do?
+# Why does this exist and what can/could it do?
 
-When it comes to what this program does is it looks through your email I have set query words that it scrapes for (which could easily be changed especially if I were to make a front end for this I could have it have a menu where the user could easily add and remove key words or phrases). Another feature that is available when scraping through the user's email is the option to look for only unread emails with the set keywords or even to look for emails from specific email addresses here is an example of the code for that "from:example@example.com".
+The main reason for creating this program was for an interview round submission were I was tasked in making a backend that would allow business owners to be able to evaluate incoming opportunities and then send those opportunities to there email. Now when it comes to what this program does is it looks through your email I have set query words that it scrapes for (which could easily be changed especially if I were to make a front end for this I could have it have a menu where the user could easily add and remove key words or phrases). Another feature that is available when scraping through the user's email is the option to look for only unread emails with the set keywords or even to look for emails from specific email addresses here is an example of the code for that "from:example@example.com".
 
 # Constraints and potential future improvements.
 
