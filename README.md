@@ -32,7 +32,7 @@ This tutorial of MIME being used that I used - https://pytutorial.com/how-to-sen
 - google_auth_oauthlib.flow
 - google.auth.transport.requests
 
-## The Email Building Libraries
+## The Email Building Libraries using MIME
 - email.mime.multipart
 - email.mime.text
 
