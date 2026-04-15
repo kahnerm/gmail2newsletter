@@ -45,7 +45,8 @@ email
 Parsing Library
 Bs4 (BeautifulSoup)
 
-Here is a easy command to use to install the libraries needed to run this code!
+
+# Here is a easy command to use to install the libraries needed to run this code!
 ### The Install Command
 ```bash
 pip install google-api-python-client google-auth-oauthlib google-auth-httplib2 beautifulsoup4 lxml
