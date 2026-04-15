@@ -1,7 +1,7 @@
 # gmail2newsletter
 
 # AI Disclaimer
-The AI Claude was used for only some very minor debugging when it came to messing with my own python version and it was spitting out an error and what it did for that was include a warning bypass at the very top of the code. It also was not used to generate any of the code.
+The AI Claude was used for only some very minor debugging when it came to messing with my own python version and it was spitting out an error and what it did for that was show me what built in python libraries to include that bypasses the warnings at the very top of the code. It also was not used to generate any of the code.
 
 
 # Resources/Tools Used.
