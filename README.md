@@ -3,10 +3,6 @@
 # AI Disclaimer
 The AI Claude was used for only some very minor debugging when it came to messing with my own python version and it was spitting out an error and what it did for that was show me what built in python libraries to include that bypasses the warnings at the very top of the code. It also was not used to generate any of the code.
 
-### Install Command
-```bash
-pip install google-api-python-client google-auth-oauthlib google-auth-httplib2 beautifulsoup4 lxml
-```
 
 # Resources/Tools Used.
 Used for finding color hex codes and also finding what colors work well together as it has that on its website. - https://colorcodefinder.com/colors
@@ -48,6 +44,12 @@ email
 
 Parsing Library
 Bs4 (BeautifulSoup)
+
+Here is a easy command to use to install the libraries needed to run this code!
+### The Install Command
+```bash
+pip install google-api-python-client google-auth-oauthlib google-auth-httplib2 beautifulsoup4 lxml
+```
 
 
 # What does the Program do?
