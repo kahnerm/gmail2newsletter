@@ -22,28 +22,28 @@ This tutorial of MIME being used that I used - https://pytutorial.com/how-to-sen
 
 # Libraries
 
-These are built into Python as I had to use them since python was giving me an issue on version control (this was the only recommendation that I had to ask Claude on) and this does not change anything when using it on other machines its just how I got mine to stop giving me version errors
-warnings
-os
-sys
+## Built in Python Libraries to remove error message
+- warnings
+- os
+- sys
 
-Google API Libraries
-googleapiclient.discovery
-google_auth_oauthlib.flow
-google.auth.transport.requests
+## Google API Libraries
+- googleapiclient.discovery
+- google_auth_oauthlib.flow
+- google.auth.transport.requests
 
-The Email Building Libraries
-email.mime.multipart
-email.mime.text
+## The Email Building Libraries
+- email.mime.multipart
+- email.mime.text
 
-Utility Libraries
-pickle
-os.path
-base64
-email
+## Utility Libraries
+- pickle
+- os.path
+- base64
+- email
 
-Parsing Library
-Bs4 (BeautifulSoup)
+## Parsing Library
+- Bs4 (BeautifulSoup)
 
 
 # Here is a easy command to use to install the libraries needed to run this code!
